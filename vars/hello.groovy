@@ -1,3 +1,3 @@
-dif call(){
+def call(){
   echo "Hi meghesh"
 }
