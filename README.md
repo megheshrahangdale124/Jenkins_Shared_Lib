@@ -14,7 +14,7 @@
 
   **Name:** Shared <br>
   **Default version:** \<branch name><br>
-  **Project reposievneltory:** https://github.com/DevMadhup/Jenkins_SharedLib.git <br>
+  **Project reposetory:** https://github.com/DevMadhup/Jenkins_SharedLib.git <br>
 ****
 <img src="https://github.com/DevMadhup/Jenkins_SharedLib/blob/main/assests/Sharedlib-config-2.png" />
 
