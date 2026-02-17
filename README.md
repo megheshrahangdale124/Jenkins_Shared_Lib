@@ -13,7 +13,7 @@
 <img src="https://github.com/DevMadhup/Jenkins_SharedLib/blob/main/assests/Sharedlib-config-1.png" />
 
   **Name:** Shared <br>
-  **Default version:** \<branch name><br>
+  **Default versionss:** \<branch name><br>
   **Project reposetory:** https://github.com/DevMadhup/Jenkins_SharedLib.git <br>
 ****
 <img src="https://github.com/DevMadhup/Jenkins_SharedLib/blob/main/assests/Sharedlib-config-2.png" />
