@@ -2,7 +2,7 @@
 - Shared libraries in Jenkins Pipelines are reusable pieces of code that can be organized into functions and classes.
 - These libraries allow you to encapsulate common logic, making it easier to maintain and share across multiple pipelines and projects.
 - Shared library must be inside the **vars** directory in your github repository
-- Shared library uses **groovy** syntax and file name ends with **.groovy** extension. 
+- Shared library uses **groovy** syntax and file name ends with **.groovy** extension.hgdh 
 
 #
 ## How to create and use shared library in Jenkins.
@@ -13,8 +13,8 @@
 <img src="https://github.com/DevMadhup/Jenkins_SharedLib/blob/main/assests/Sharedlib-config-1.png" />
 
   **Name:** Shared <br>
-  **Default version:** \<branch name><br>
-  **Project repository:** https://github.com/DevMadhup/Jenkins_SharedLib.git <br>
+  **Default versionss:** \<branch name><br>
+  **Project reposetory:** https://github.com/DevMadhup/Jenkins_SharedLib.git <br>
 ****
 <img src="https://github.com/DevMadhup/Jenkins_SharedLib/blob/main/assests/Sharedlib-config-2.png" />
 
